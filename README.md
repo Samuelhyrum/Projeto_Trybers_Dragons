@@ -11,3 +11,9 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 - quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
 - quais arquivos/pastas foram desenvolvidos pela Trybe.
 -->
+<details>
+  <summary><strong>👨‍💻 O que foi desenvolvido</strong></summary><br />
+
+  Para este projeto, eu apliquei os princípios da arquitetura `SOLID` e os princípios de `POO` em uma estrutura de jogos de interpretação de papéis, mais conhecidos como jogos `RPG` (_Role Playing Game_).
+
+</details>
